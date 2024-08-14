@@ -22,6 +22,8 @@ Geographically, the majority of sales are concentrated in North America and Euro
 Order Status shows that most orders are in the "Approved" stage, with significant amounts due, indicating a healthy sales pipeline. However, there are opportunities to optimize processes related to canceled, rejected, and backordered orders to improve overall performance.
 
 This overview encapsulates the company's current sales landscape, pinpointing areas of strength and opportunities for further growth and optimization.
+## Tool
+Using Excel&PowerBI                                      
 
 ## Insights
 Overall Sales Performance:
